@@ -1,0 +1,218 @@
+header {
+    color: #ffffff;
+    background-color: black;
+     gap: 100px;
+    display: flexbox
+     
+}
+.body {
+    
+    background-color: #f4f4f4
+    
+}
+
+.superior {
+    padding-left: 250px;
+    gap: 300px;
+    
+}
+ 
+
+
+.link{ 
+    display: flex;
+    gap: 100px;
+    padding-left: 280px;
+    text-decoration: none;
+    border-bottom: 1px solid white;    
+}
+
+
+.link a {
+    color: white;
+    text-decoration: none; 
+}
+
+.link a:hover {
+    color: red;
+    text-decoration: none;
+}
+
+.nav {
+    display: flex;
+    gap: 40px; 
+    padding-top: 20px;
+    padding-left:25px;
+    text-decoration: none;
+    width: 50px;
+    
+}
+.nav a {
+    color: white;
+    text-decoration: none;
+}
+.iconos {
+    display: flex;
+    gap: 20px; 
+   
+   
+}
+
+
+
+    
+   
+
+.equipos {
+    display: flex;
+    gap: 100px; 
+    
+}
+.alemania{
+    margin-left: 0%;
+    background-color: #1f1f1f;
+    width: 250px;
+    height: 250px;
+    box-shadow: #1f1f1f 10px 10px 12px
+    
+}
+.bandera {
+    
+    border-radius: 20px;
+    width: 250px; 
+    padding-bottom: 10px;
+}
+img{
+    width: 30px;
+    padding-left: 10px;
+    padding-top: 10px;
+    
+}
+.alemanias{
+    background-color: #ffffff;
+    
+   
+}
+h2{
+    text-align: left;
+    padding-top: 50px;
+}
+
+.arabiaSaudita{
+    
+    background-color: #27a550;
+    width: 250px;
+    height: 250px;
+    box-shadow: #1f1f1f 10px 10px 12px
+
+}
+.saudista{
+    background-color: wheat;
+    
+
+}
+
+.argelia{
+    
+    background-color: #00a067; 
+    width: 250px;
+    height: 250px;
+    box-shadow: #1f1f1f 10px 10px 12px
+}
+.argelias{
+    background-color: wheat;
+
+}
+.argentina{
+    
+    background-color: #9cc9f2; 
+    width: 250px;
+    height: 250px;
+    box-shadow: #1f1f1f 10px 10px 12px
+}
+.argentinas{
+    background-color: wheat;
+
+}
+.equipos2{
+    display: flex;
+    gap: 100px;
+    padding-top: 20px;
+}
+.australia{
+    background-color:#efb500; 
+    width: 250px;
+    height: 250px;
+    box-shadow: #1f1f1f 10px 10px 12px
+}
+.australias{
+    background-color: wheat;
+
+}
+.austria{
+    background-color: #ed3d32; 
+    width: 250px;
+    height: 250px;
+    box-shadow: #1f1f1f 10px 10px 12px
+}
+.austrias{
+   background-color: wheat;
+ 
+}
+.brazil{
+    background-color: #ffcf25; 
+    width: 250px;
+    height: 250px;
+    box-shadow: #1f1f1f 10px 10px 12px
+}
+.brazill{
+    background-color: wheat;
+
+}
+.belgica{
+    background-color: #880029; 
+    width: 250px;
+    height: 250px;
+    box-shadow: #1f1f1f 10px 10px 12px
+}
+.belgicas{
+    background-color: wheat;
+}
+.fifa{
+    display: flex;
+    gap: 800px;
+    
+    border-bottom: white solid 1px;
+}
+
+    
+
+.iconos{
+    align-items: right;
+    gap: 20px;
+    padding-left: 1200px
+}
+.logo{
+    padding: 10px;
+    position: relative;
+    display: block;
+    
+}
+.span{
+    display: flex;
+
+}
+.menu{
+    height: 20px;
+    background-color: #ffffff26;
+}
+
+
+
+    
+
+
+   
+
+
+
